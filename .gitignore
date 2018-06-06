@@ -6,3 +6,5 @@ yarn-debug.log*
 yarn-error.log*
 .lavas/
 .nyc_output
+lavasdist/
+package-lock.json
